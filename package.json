@@ -12,7 +12,7 @@
     "chalk": "^4.0.0",
     "loading-cli": "^1.1.0",
     "minimist": "^1.2.5",
-    "read-excel-file": "^4.0.6",
+    "read-excel-file": "^5.5.1",
     "yargs": "^15.3.1"
   }
 }
